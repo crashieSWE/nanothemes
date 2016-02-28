@@ -4,6 +4,8 @@ Here I will upload all themes I've made for the WiFi Pineapple NANO. Feel free t
 
 If there's any issues let me know. To keep file sizes down I've modded bootstrap.min.css, main.css and in some cases the html for the dashboard and/or other modules. 
 
+The first index.html file is the one from the /Pineapple folder. 
+
 You'll find me over at the Hak5 forums or IRC if you want to get hold of me.
 
 Cheers! / crashie
